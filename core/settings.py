@@ -40,6 +40,11 @@ INSTALLED_APPS = [
 
     # app
     'insumos',
+    'fichas',
+    'clientes',
+    'pedidos',
+    'tarefas',
+    'pagamentos',
 ]
 
 MIDDLEWARE = [
